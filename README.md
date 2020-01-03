@@ -29,7 +29,6 @@ Bamazon is an Amazon-like storefront. The app takes orders from the user and dep
 
 
 
-### MySQL Screen shots
+### MySQL 
 
 ![MySQL](assets/media/mySQL1.png)
-![MySQL](assets/media/mySQL2.png)
